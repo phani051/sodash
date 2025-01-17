@@ -1,0 +1,2 @@
+# sodash
+Dashboard for StoreOnce
